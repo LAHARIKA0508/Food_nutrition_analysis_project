@@ -1,0 +1,16 @@
+food_id,food_name,food_category
+1,Brown Rice,Grains
+2,White Rice,Grains
+3,Oats,Grains
+4,Chicken Breast,Protein
+5,Egg,Protein
+6,Salmon,Fish
+7,Lentils,Legumes
+8,Spinach,Vegetables
+9,Broccoli,Vegetables
+10,Banana,Fruits
+11,Apple,Fruits
+12,Milk,Dairy
+13,Yogurt,Dairy
+14,Almonds,Nuts
+15,Sweet Potato,Vegetables

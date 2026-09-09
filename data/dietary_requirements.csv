@@ -1,0 +1,17 @@
+requirement_id,nutrient_id,age_group,gender,recommended_amount
+1,1,Adult,Male,56
+2,1,Adult,Female,46
+3,4,Adult,Male,38
+4,4,Adult,Female,25
+5,5,Adult,Male,1000
+6,5,Adult,Female,1000
+7,6,Adult,Male,8
+8,6,Adult,Female,18
+9,7,Adult,Male,90
+10,7,Adult,Female,75
+11,8,Adult,Male,15
+12,8,Adult,Female,15
+13,9,Adult,Male,3400
+14,9,Adult,Female,2600
+15,10,Adult,Male,2300
+16,10,Adult,Female,2300

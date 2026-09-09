@@ -1,0 +1,11 @@
+nutrient_id,nutrient_name,unit
+1,Protein,g
+2,Carbohydrates,g
+3,Total Fat,g
+4,Dietary Fiber,g
+5,Calcium,mg
+6,Iron,mg
+7,Vitamin C,mg
+8,Vitamin D,mcg
+9,Potassium,mg
+10,Sodium,mg
